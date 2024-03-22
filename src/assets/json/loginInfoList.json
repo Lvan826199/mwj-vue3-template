@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "请求成功",
+  "code": 200,
+  "data": {
+    "items": [
+      {
+        "id": 43556,
+        "username": "superAdmin",
+        "ip": "222.65.101.115",
+        "ip_location": "上海-上海市:电信",
+        "os": "Windows 10",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 14:20:32",
+        "remark": null
+      },
+      {
+        "id": 43555,
+        "username": "superAdmin",
+        "ip": "183.26.170.196",
+        "ip_location": "广东省-佛山市:电信",
+        "os": "Windows 10",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 14:12:42",
+        "remark": null
+      },
+      {
+        "id": 43554,
+        "username": "superAdmin",
+        "ip": "118.114.191.75",
+        "ip_location": "四川省-成都市:电信",
+        "os": "Windows 10",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 14:12:25",
+        "remark": null
+      },
+      {
+        "id": 43553,
+        "username": "superAdmin",
+        "ip": "112.54.132.84",
+        "ip_location": "北京-北京市:移动",
+        "os": "Mac",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 14:12:21",
+        "remark": null
+      },
+      {
+        "id": 43552,
+        "username": "superAdmin",
+        "ip": "221.237.121.68",
+        "ip_location": "四川省-成都市:电信",
+        "os": "Windows 10",
+        "browser": "Edge",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 14:07:07",
+        "remark": null
+      },
+      {
+        "id": 43551,
+        "username": "superAdmin",
+        "ip": "113.200.247.210",
+        "ip_location": "陕西省-宝鸡市:联通",
+        "os": "Windows 10",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 13:43:38",
+        "remark": null
+      },
+      {
+        "id": 43550,
+        "username": "superAdmin",
+        "ip": "115.212.2.185",
+        "ip_location": "浙江省-金华市:电信",
+        "os": "Windows 10",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 13:41:41",
+        "remark": null
+      },
+      {
+        "id": 43549,
+        "username": "superAdmin",
+        "ip": "113.110.215.186",
+        "ip_location": "广东省-深圳市:电信",
+        "os": "Windows 10",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 13:39:38",
+        "remark": null
+      },
+      {
+        "id": 43548,
+        "username": "superAdmin",
+        "ip": "117.64.75.214",
+        "ip_location": "安徽省-马鞍山市:电信",
+        "os": "Mac",
+        "browser": "Chrome",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 13:38:43",
+        "remark": null
+      },
+      {
+        "id": 43547,
+        "username": "superAdmin",
+        "ip": "119.8.170.121",
+        "ip_location": "新加坡",
+        "os": "Windows 10",
+        "browser": "Edge",
+        "status": 1,
+        "message": "登录成功",
+        "login_time": "2024-04-22 13:36:50",
+        "remark": null
+      }
+    ],
+    "pageInfo": {
+      "total": 43395,
+      "currentPage": 1,
+      "totalPage": 4340
+    }
+  }
+}
