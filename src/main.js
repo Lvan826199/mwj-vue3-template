@@ -2,9 +2,7 @@ import {createApp} from 'vue'
 import App from './App.vue'
 const app = createApp(App);
 
-// 注册路由
-import router from "@/routers";
-app.use(router);
+
 
 // element-plus
 import ElementPlus from 'element-plus';
@@ -47,6 +45,10 @@ app.use(directives);
 // 国际化
 import I18n from "@/languages/index";
 app.use(I18n);
+
+// 注册路由
+import router from "@/routers";
+app.use(router);
 
 // 状态管理
 import pinia from "@/stores";
