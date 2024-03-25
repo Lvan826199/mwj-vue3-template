@@ -1,0 +1,43 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "ID": 1,
+        "userName": "admin",
+        "nickName": "梦无矶",
+        "phone": "18888888888",
+        "email": "18888888888@qq.com",
+        "enable": 1
+      },
+      {
+        "ID": 2,
+        "userName": "leishen",
+        "nickName": "雷神",
+        "phone": "18888888889",
+        "email": "188888888881@qq.com",
+        "enable": 1
+      },
+      {
+        "ID": 3,
+        "userName": "puren",
+        "nickName": "仆人",
+        "phone": "18888888899",
+        "email": "18888888889@qq.com",
+        "enable": 1
+      },
+      {
+        "ID": 4,
+        "userName": "shenhe",
+        "nickName": "申鹤",
+        "phone": "18888888879",
+        "email": "18888888871@qq.com",
+        "enable": 1
+      }
+    ],
+    "total": 4,
+    "page": 1,
+    "pageSize": 10
+  },
+  "msg": "获取成功"
+}

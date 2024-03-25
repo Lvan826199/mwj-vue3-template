@@ -264,6 +264,36 @@
       ]
     },
     {
+      "path": "/myTable",
+      "name": "myTable",
+      "redirect": "/myTable/baseTable",
+      "meta": {
+        "icon": "Coordinate",
+        "title": "表格示列",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": false,
+        "isKeepAlive": true
+      },
+      "children": [
+        {
+          "path": "/myTable/baseTable",
+          "name": "baseTable",
+          "component": "/myTable/baseTable/index",
+          "meta": {
+            "icon": "Mug",
+            "title": "基础表格",
+            "isLink": "",
+            "isHide": false,
+            "isFull": false,
+            "isAffix": false,
+            "isKeepAlive": true
+          }
+        }
+      ]
+    },
+    {
       "path": "/echarts",
       "name": "echarts",
       "redirect": "/echarts/waterChart",

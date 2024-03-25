@@ -1,7 +1,8 @@
 import { PORT1 } from "@/api/config/servicePort";
 import http from "@/api";
 
-import userList from "@/api/assets/json/userList.json"
+import userList from "@/assets/json/userList.json"
+import tableUserList from "@/assets/json/tableUserList.json"
 
 /**
  * @name 用户管理模块
@@ -21,4 +22,9 @@ export const postUser = (params) => {
     return {"code":200, "msg":"success"}
 };
 
+
+// 表格的模拟用户列表
+export const getTableUserList = (params) => {
+    return tableUserList;
+};
 

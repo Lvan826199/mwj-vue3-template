@@ -12,6 +12,7 @@ app.use(ElementPlus);
 // 自定义样式
 // reset style sheet
 import "@/styles/reset.scss";
+
 // CSS common style sheet
 import "@/styles/common.scss";
 // iconfont css
@@ -24,7 +25,7 @@ import "@/styles/element-dark.scss";
 import "@/styles/element.scss";
 // svg icons
 import "virtual:svg-icons-register";
-
+import "@/styles/main.scss";
 
 // 注册所有图标
 import * as ElementPlusIconsVue from '@element-plus/icons-vue';
