@@ -1,0 +1,12 @@
+version: "3"
+services:  # 要启动的 容器服务
+    mwjvueweb:
+        build: ./nginx_docker/
+        container_name: mwjvue_nginx
+        restart: always
+        ports:
+            - "8778:8778"
+        volumes:
+            - nginx_logs:/var/log/
+volumes:  # 定义的数据卷
+    nginx_logs:
