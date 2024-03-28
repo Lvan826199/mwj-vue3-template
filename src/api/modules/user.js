@@ -3,6 +3,7 @@ import http from "@/api";
 
 import userList from "@/assets/json/userList.json"
 import tableUserList from "@/assets/json/tableUserList.json"
+import userDepartmentList from "@/assets/json/userDepartmentList.json"
 
 /**
  * @name 用户管理模块
@@ -28,3 +29,6 @@ export const getTableUserList = (params) => {
     return tableUserList;
 };
 
+export const getUserDepartment = (params) => {
+    return userDepartmentList;
+};

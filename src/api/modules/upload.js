@@ -1,6 +1,6 @@
 import { PORT1 } from "@/api/config/servicePort";
 import http from "@/api";
-import upaloadImageList from "@/api/assets/json/upaloadImageList.json"
+import upaloadImageList from "@/assets/json/upaloadImageList.json"
 
 
 /**

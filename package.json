@@ -26,6 +26,7 @@
     "sass": "^1.72.0",
     "screenfull": "^6.0.2",
     "sortablejs": "^1.15.2",
+    "terser": "^5.30.0",
     "unplugin-auto-import": "^0.17.5",
     "unplugin-vue-components": "^0.26.0",
     "vite-plugin-svg-icons": "^2.0.1",

@@ -3,7 +3,7 @@
     <TreeFilter
       label="name"
       title="部门列表(单选)"
-      :request-api="getSelectUser"
+      :request-api="getUserDepartment"
       :default-value="treeFilterValue.departmentId"
       @change="changeTreeFilter"
     />
@@ -11,7 +11,7 @@
       title="部门列表(多选)"
       multiple
       label="name"
-      :request-api="getSelectUser"
+      :request-api="getUserDepartment"
       :default-value="treeFilterValue1.departmentId"
       @change="changeTreeFilter1"
     />
@@ -33,7 +33,7 @@
 <script setup lang="ts" name="treeFilter">
 import { reactive } from "vue";
 import { ElMessage } from "element-plus";
-import { getSelectUser } from "@/api/modules/user";
+import { getUserDepartment } from "@/api/modules/user";
 import TreeFilter from "@/components/TreeFilter/index.vue";
 
 const treeFilterValue = reactive({ departmentId: "1" });
