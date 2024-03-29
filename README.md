@@ -35,7 +35,7 @@ git clone https://github.com/Lvan826199/mwj-vue3-template.git
 
 云服务到期时间为2024年11月,之后将无法访问
 
-线上demo: http://localhost:8778/home/index
+线上demo: http://106.14.168.21:8778/home/index
 
 账号：admin
 
