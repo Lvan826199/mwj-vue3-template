@@ -74,10 +74,10 @@ const openDialog = (ref) => {
 
 
 const openGitee = ()=>{
-  window.open('https://gitee.com/xielei-test/mwj','_blank')
+  window.open('https://github.com/Lvan826199/mwj-vue3-template','_blank')
 }
 const openGiteeIssues = ()=>{
-  window.open('https://gitee.com/xielei-test/mwj/issues','_blank')
+  window.open('https://github.com/Lvan826199/mwj-vue3-template/issues','_blank')
 }
 </script>
 
