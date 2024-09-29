@@ -18,17 +18,9 @@
 git clone https://github.com/Lvan826199/mwj-vue3-template.git
 ```
 
-## 依赖下载
+## 项目文档&依赖下载&启动项目&docker部署
 
-文档待完善...
-
-## 启动项目
-
-文档待完善...
-
-# docker部署
-
-文档待完善...
+https://mp.weixin.qq.com/s/F17fNiBWNoFxS55M_bo0Uw
 
 
 # 在线体验
